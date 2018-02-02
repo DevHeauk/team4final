@@ -15,8 +15,8 @@ Purchase Premium Metronic Admin Theme: http://themeforest.net/item/metronic-resp
 <html lang="en">
 <!--<![endif]-->
 
-<!-- Head BEGIN -->
-<head>
+<!-- Head BEGIN --> 
+<head>  
   <meta charset="utf-8">
   <title>My Wish List | Metronic Shop UI</title>
 
